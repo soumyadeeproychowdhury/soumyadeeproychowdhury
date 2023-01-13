@@ -36,7 +36,7 @@ accomplish it with the highest commitment and who can always be relied upon to p
 - 🌱 I’m currently learning Data Structures and Algorithms along with Web Development  
   
 
-- ❓ Ask me about anything related Indian Navy  
+- ❓ Ask me about anything related ships and submarines 
   
 
 - ⚡ Fun fact: I think I am funny  
