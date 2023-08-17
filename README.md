@@ -30,13 +30,13 @@ accomplish it with the highest commitment and who can always be relied upon to p
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Arduino based projects  
+- 🔭 I’m currently working on Arduino based projects  along side full stack projects
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms,Web development along with Machine Learning
+- 🌱 I’m currently learning Data Structures and Algorithms,Web development, Machine Learning and embedded systems 
   
 
-- ❓ Ask me about anything related ships and submarines 
+- ❓ Ask me about anything related Rockets 
   
 
 - ⚡ Fun fact: I think I am funny  
